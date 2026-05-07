@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/isairey/A-POP?style=for-the-badge&color=yellow">
-  <img src="https://img.shields.io/github/forks/isairey/A-POP?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/issues/isairey/A-POP?style=for-the-badge&color=red">
-  <img src="https://img.shields.io/github/license/isairey/A-POP?style=for-the-badge&color=green">
+  <img src="https://img.shields.io/github/stars/isairey/AppMusica?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/github/forks/isairey/AppMusica?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/issues/isairey/AppMusica?style=for-the-badge&color=red">
+  <img src="https://img.shields.io/github/license/isairey/AppMusica?style=for-the-badge&color=green">
 </p>
 
 <p align="center">
@@ -127,56 +127,84 @@ A-POP/
 │
 ├── package.json
 └── README.md
-🚀 Instalación
-1️⃣ Clonar repositorio
+```
+---
+
+# 🚀 Instalación
+
+## 1️⃣ Clonar repositorio
+```
 git clone https://github.com/isairey/A-POP.git
 cd A-POP
-2️⃣ Instalar dependencias
+```
+## 2️⃣ Instalar dependencias
+```
 npm install
-3️⃣ Ejecutar proyecto
+```
+## 3️⃣ Ejecutar proyecto
+```
 npm start
-🌐 Abrir en el navegador
+```
+---
+
+# 🌐 Abrir en el navegador
+```
 http://localhost:3000
+```
 🧪 Testing
 
 Ejecutar pruebas:
-
+```
 npm test
-
+```
 Generar build de producción:
-
+```
 npm run build
-📊 Roadmap
- Sistema de playlists
- Descarga offline
- Login social
- Recomendaciones inteligentes
- Aplicación móvil
- Letras sincronizadas
- Equalizador integrado
- Modo oscuro avanzado
-⚙️ Rendimiento
+```
+---
 
-✅ Optimizado para bajo consumo de datos
-✅ Streaming rápido
-✅ Interfaz ligera
-✅ Compatible con móviles y escritorio
+# 📊 Roadmap
 
-🤝 Contribuciones
+- Sistema de playlists
+- Descarga offline
+- Login social
+- Recomendaciones inteligentes
+- Aplicación móvil
+- Letras sincronizadas
+- Equalizador integrado
+- Modo oscuro avanzado
+
+ ---
+ 
+# ⚙️ Rendimiento
+
+- ✅ Optimizado para bajo consumo de datos
+- ✅ Streaming rápido
+- ✅ Interfaz ligera
+- ✅ Compatible con móviles y escritorio
+
+---
+
+# 🤝 Contribuciones
 
 Las contribuciones son bienvenidas 🚀
 
-Pasos
-Haz un Fork
-Crea una rama
-Realiza cambios
-Envía un Pull Request
-📄 Licencia
+
+- Haz un Fork
+- Crea una rama
+- Realiza cambios
+- Envía un Pull Request
+
+---
+
+# 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
 
+---
+
 👨‍💻 Autor
-Isai Reyes
+**Isai Reyes**
 
 Desarrollador Full Stack especializado en aplicaciones multimedia, streaming y tecnologías web modernas.
 
