@@ -134,8 +134,8 @@ A-POP/
 
 ## 1️⃣ Clonar repositorio
 ```
-git clone https://github.com/isairey/A-POP.git
-cd A-POP
+git clone https://github.com/isairey/AppMusica.git
+cd AppMusica
 ```
 ## 2️⃣ Instalar dependencias
 ```
