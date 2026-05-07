@@ -1,83 +1,183 @@
-<h1 align="center"> A-POP 🎶 </h1>
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.A-POP)
-[![Prettier](https://badgen.net/github/checks/abhisheknaiidu/a-pop?label=Prettier)](https://github.com/abhisheknaiidu/a-pop/actions?workflow=Prettier)
-[![ESLint](https://badgen.net/github/checks/abhisheknaiidu/a-pop?label=ESLint)](https://github.com/abhisheknaiidu/a-pop/actions?workflow=ESLint)
-[![Issues](https://img.shields.io/github/issues/abhisheknaiidu/a-pop)](https://github.com/abhisheknaiidu/a-pop/issues)
-[![Pulls](https://img.shields.io/github/issues-pr/abhisheknaiidu/a-pop)](https://github.com/abhisheknaiidu/a-pop/pulls)
-[![Stars](https://img.shields.io/github/stars/abhisheknaiidu/a-pop)](https://github.com/abhisheknaiidu/a-pop)
-[![Forks](https://img.shields.io/github/forks/abhisheknaiidu/a-pop)](https://github.com/abhisheknaiidu/a-pop/fork)
-
-[A-POP](https://a-pop.abhisheknaidu.tech/) is a HD Music Stream and Sharing Application 🎧 built in order to provide high sound clarity for Youtube or SoundCloud Songs and without ads and even video streaming!
-
-**Just Music and Chill** 😉
-
-It's actually a hack for students, to listen to songs and bgm's from Youtube without even buffering data for video streams and also can share with friends.
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Technology Stack](#technology-stack)
-- [Installation & Usage](#installation-&-usage)
-- [Testing](#testing)
-
-## Demo
-
-View the application at [a-pop](https://a-pop.abhisheknaidu.tech/)
-
-<hr>
-
 <div align="center">
 
-<img alt="apop_demo" style="width: 450px; height: 400px" src="public/a-pop-demo.gif"> </img>
+<img src="https://cdn-icons-png.flaticon.com/512/3659/3659899.png" width="120" />
+
+# 🎶 A-POP
+
+### Plataforma moderna de streaming musical en alta calidad
+
+<p align="center">
+  <strong>Escucha música en HD desde YouTube y SoundCloud sin anuncios, con una experiencia rápida, elegante y minimalista.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/isairey/A-POP?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/github/forks/isairey/A-POP?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/issues/isairey/A-POP?style=for-the-badge&color=red">
+  <img src="https://img.shields.io/github/license/isairey/A-POP?style=for-the-badge&color=green">
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isairey.A-POP" />
+</p>
 
 </div>
 
-API is being hosted on Heroku using Apollo Client!
+---
 
-## Technology Stack
+# 🌟 Acerca del Proyecto
 
-![Screenshot](apollo.png)
+**A-POP** es una aplicación web de streaming musical desarrollada para ofrecer una experiencia limpia, rápida y sin interrupciones.
 
-It is built using GraphQL, Apollo Client, Material-UI and obviously React!
+La plataforma permite reproducir música desde múltiples fuentes como **YouTube** y **SoundCloud**, priorizando la calidad de audio y el rendimiento.
 
-| Technology    | Description                               | Link ↘️                                    |
-| ------------- | ----------------------------------------- | ------------------------------------------ |
-| HTML5         | Hyper Text Markup Language                | ----                                       |
-| CSS3          | Cascading Style Sheets                    | ----                                       |
-| JavaScript    | High Level, Dynamic, Interpreted Language | ----                                       |
-| GraphQL       | Query Language for APIs                   | https://graphql.org                        |
-| Apollo Client | State Management Library                  | https://www.apollographql.com/docs/react/g |
-| Material UI   | Material UI Framework for React           | https://www.apollographql.com/docs/react/  |
+> 🎧 Música sin anuncios.  
+> ⚡ Streaming rápido.  
+> 🌙 Solo música y buenas vibras.
 
-## Installation & Usage
+---
 
-_Ensure [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) are installed_
+# ✨ Características
 
-1. Clone or Download the repository (Depending on whether you are using SSH or HTTPS)
+## 🎵 Streaming en Alta Calidad
+- Reproducción HD
+- Audio optimizado
+- Bajo consumo de datos
+- Streaming rápido y estable
 
-```
-git clone git@github.com:abhisheknaiidu/a-pop.git
-cd a-pop
-```
+---
 
-2. Install dependencies
+## 🔍 Exploración Musical
+- Buscar canciones
+- Buscar artistas
+- Buscar álbumes
+- Tendencias musicales
 
-```
-npm i
-```
+---
 
-3. Start the application
+## 🚀 Experiencia Moderna
+- Interfaz minimalista
+- Diseño responsive
+- Navegación fluida
+- Animaciones suaves
 
-```
+---
+
+## ❤️ Funciones Sociales
+- Compartir música
+- Recomendaciones
+- Historial de reproducción
+
+---
+
+## 🛡️ Sin Anuncios
+- Experiencia limpia
+- Sin interrupciones
+- Reproductor enfocado en música
+
+---
+
+# 📸 Vista Previa
+
+<div align="center">
+
+<img src="public/a-pop-demo.gif" width="850"/>
+
+</div>
+
+---
+
+# 🛠️ Tecnologías Utilizadas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,graphql,html,css" />
+
+</div>
+
+---
+
+## ⚡ Stack Tecnológico
+
+| Tecnología | Descripción |
+|------------|-------------|
+| React.js | Librería frontend |
+| GraphQL | Gestión de APIs |
+| Apollo Client | Manejo de estado y peticiones |
+| Material UI | Componentes modernos |
+| JavaScript | Lógica de aplicación |
+| HTML5 | Estructura |
+| CSS3 | Estilos |
+
+---
+
+# 📂 Estructura del Proyecto
+
+```bash
+A-POP/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── graphql/
+│   ├── hooks/
+│   ├── assets/
+│   └── styles/
+│
+├── package.json
+└── README.md
+🚀 Instalación
+1️⃣ Clonar repositorio
+git clone https://github.com/isairey/A-POP.git
+cd A-POP
+2️⃣ Instalar dependencias
+npm install
+3️⃣ Ejecutar proyecto
 npm start
-```
+🌐 Abrir en el navegador
+http://localhost:3000
+🧪 Testing
 
-After the application starts visit [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ejecutar pruebas:
 
-## Testing
+npm test
 
-Run the command `npm test` to run the tests
+Generar build de producción:
 
-`npm run build`
+npm run build
+📊 Roadmap
+ Sistema de playlists
+ Descarga offline
+ Login social
+ Recomendaciones inteligentes
+ Aplicación móvil
+ Letras sincronizadas
+ Equalizador integrado
+ Modo oscuro avanzado
+⚙️ Rendimiento
+
+✅ Optimizado para bajo consumo de datos
+✅ Streaming rápido
+✅ Interfaz ligera
+✅ Compatible con móviles y escritorio
+
+🤝 Contribuciones
+
+Las contribuciones son bienvenidas 🚀
+
+Pasos
+Haz un Fork
+Crea una rama
+Realiza cambios
+Envía un Pull Request
+📄 Licencia
+
+Este proyecto está bajo la licencia MIT.
+
+👨‍💻 Autor
+Isai Reyes
+
+Desarrollador Full Stack especializado en aplicaciones multimedia, streaming y tecnologías web modernas.
+
+<p align="center"> <a href="https://github.com/isairey"> <img src="https://img.shields.io/badge/GitHub-isairey-181717?style=for-the-badge&logo=github"> </a> </p>
